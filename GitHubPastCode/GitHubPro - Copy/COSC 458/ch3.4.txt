@@ -1,0 +1,18 @@
+Scaling out and scaling up
+·       ‘Scaling up’ is concerned with using agile methods for developing large software systems that cannot be developed by a small team.
+·       ‘Scaling out’ is concerned with how agile methods can be introduced across a large organization with many years of software development experience.
+·       When scaling agile methods it is important to maintain agile fundamentals:
+o   Flexible planning, frequent system releases, continuous integration, test-driven development and good team communications.
+Practical problems with agile method
+·       The informality of agile development is incompatible with the legal approach to contract definition that is commonly used in large companies.
+·       Agile methods are most appropriate for new software development rather than software maintenance. Yet the majority of software costs in large companies come from maintaining their existing software systems.
+·       Agile methods are designed for small co-located teams yet much software development now involves worldwide distributed teams.
+System issues
+·       How large is the system being developed?
+o    Agile methods are most effective a relatively small co-located team who can communicate informally.
+·       What type of system is being developed?
+o   Systems that require a lot of analysis before implementation need a fairly detailed design to carry out this analysis.
+·       What is the expected system lifetime?
+o    Long-lifetime systems require documentation to communicate the intentions of the system developers to the support team.
+·       Is the system subject to external regulation?
+o    If a system is regulated you will probably be required to produce detailed documentation as part of the system safety case.

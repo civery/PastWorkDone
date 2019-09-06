@@ -1,0 +1,8 @@
+Requirements engineering processes
+·       The processes used for RE vary widely depending on the application domain, the people involved and the organisation developing the requirements.
+·       However, there are a number of generic activities common to all processes
+o   Requirements elicitation;
+o   Requirements analysis;
+o   Requirements validation;
+o   Requirements management.
+·        In practice, RE is an iterative activity in which these processes are interleaved.

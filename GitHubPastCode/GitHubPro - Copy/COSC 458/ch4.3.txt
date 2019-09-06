@@ -1,0 +1,24 @@
+Requirements elicitation
+·       Software engineers work with a range of system stakeholders to find out about the application domain, the services that the system should provide, the required system performance, hardware constraints, other systems, etc.
+·        Stages include:
+o    Requirements discovery,
+o   Requirements classification and organization,
+o   Requirements prioritization and negotiation,
+o   Requirements specification.
+Problems of requirement elicitation
+·        Stakeholders don’t know what they really want.
+·       Stakeholders express requirements in their own terms.
+·       Different stakeholders may have conflicting requirements.
+·       Organisational and political factors may influence the system requirements.
+·        The requirements change during the analysis process. New stakeholders may emerge and the business environment may change
+The requirements elicitation and analysis process
+
+Process activities
+·       Requirements discovery
+o   Interacting with stakeholders to discover their requirements. Domain requirements are also discovered at this stage.
+·        Requirements classification and organisation
+o    Groups related requirements and organises them into coherent clusters.
+·       Prioritisation and negotiation
+o   Prioritising requirements and resolving requirements conflicts.
+·       Requirements specification
+o    Requirements are documented and input into the next round of the spiral.

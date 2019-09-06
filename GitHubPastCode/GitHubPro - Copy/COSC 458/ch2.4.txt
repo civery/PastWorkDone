@@ -1,0 +1,20 @@
+Process important activities
+·       Process measurement
+o   You measure one or more attributes of the software process or product. These measurements forms a baseline that helps you decide if process improvements have been effective.
+·       Process analysis
+o   The current process is assessed, and process weaknesses and bottlenecks are identified. Process models (sometimes called process maps) that describe the process may be developed.
+·       Process change
+o   Process changes are proposed to address some of the identified process weaknesses. These are introduced and the cycle resumes to collect data about the effectiveness of the changes.
+Capability maturity levels
+
+SEI capability maturity model
+·       Initial
+o    Essentially uncontrolled
+·       Repeatable
+o   Product management procedures defined and used
+·       Defined
+o   Process management procedures and strategies defined and used
+·       Managed
+o   Quality management strategies defined and used
+·        Optimising
+o    Process improvement strategies defined and used

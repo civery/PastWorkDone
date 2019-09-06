@@ -1,0 +1,11 @@
+Class diagrams
+·       Class diagrams are used when developing an object oriented system model to show the classes in a system and the associations between these classes.
+·       An object class can be thought of as a general definition of one kind of system object.
+·       An association is a link between classes that indicates that there is some relationship between these classes.
+·       When you are developing models during the early stages of the software engineering process, objects represent something in the real world, such as a patient, a prescription, doctor, etc.
+
+Data-driven modeling
+·       Many business systems are data-processing systems that are primarily driven by data. They are controlled by the data input to the system, with relatively little external event processing.
+·       Data-driven models show the sequence of actions involved in processing input data and generating an associated output.
+·        They are particularly useful during the analysis of requirements as they can be used to show end-to-end processing in a system.
+ 

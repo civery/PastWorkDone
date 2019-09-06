@@ -1,0 +1,4 @@
+Context Models
+·       Context models are used to illustrate the operational context of a system - they show what lies outside the system boundaries.
+·       Social and organisational concerns may affect the decision on where to position system boundaries.
+·        Architectural models show the system and its relationship with other systems.

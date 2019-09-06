@@ -1,0 +1,17 @@
+Application Types
+·       Stand alone applications
+o   These are application systems that run on a local computer, such as a PC. They include all necessary functionality and do not need to be connected to a network.
+·       Interactive transaction-based applications
+o   Applications that execute on a remote computer and are accessed by users from their own PCs or terminals. These include web applications such as e-commerce applications.  
+·       Embedded control systems
+o   These are software control systems that control and manage hardware devices. Numerically, there are probably more embedded systems than any other type of system.
+·       Batch processing systems
+o   These are business systems that are designed to process data in large batches. They process large numbers of individual inputs to create corresponding outputs
+·       Entertainment systems
+o   These are systems that are primarily for personal use and which are intended to entertain the user.
+·       Systems for modeling and simulation
+o   These are systems that are developed by scientists and engineers to model physical processes or situations, which include many, separate, interacting objects.
+·       Data collection systems
+o   These are systems that collect data from their environment using a set of sensors and send that data to other systems for processing.
+·       Systems of systems
+o   These are systems that are composed of a number of other software systems

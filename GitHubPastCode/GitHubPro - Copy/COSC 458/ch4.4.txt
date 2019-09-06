@@ -1,0 +1,20 @@
+Requirements specification
+·        The process of writing down the user and system requirements in a requirements document.
+·        User requirements have to be understandable by endusers and customers who do not have a technical background.
+·        System requirements are more detailed requirements and may include more technical information.
+·       The requirements may be part of a contract for the system development
+o   It is therefore important that these are as complete as possible.
+Ways of writing a system requirement specification
+
+Guidelines for writing requirements
+·        Invent a standard format and use it for all requirements.
+·       Use language in a consistent way. Use shall for mandatory requirements, should for desirable requirements.
+·       Use text highlighting to identify key parts of the requirement.
+·       Avoid the use of computer jargon.
+·       Include an explanation (rationale) of why a requirement is necessary
+Use Cases
+·        Use-cases are a kind of scenario that are included in the UML.
+·       Use cases identify the actors in an interaction and which describe the interaction itself.
+·       A set of use cases should describe all possible interactions with the system.
+·       High-level graphical model supplemented by more detailed tabular description (see Chapter 5).
+·        UML sequence diagrams may be used to add detail to use-cases by showing the sequence of event processing in the system.

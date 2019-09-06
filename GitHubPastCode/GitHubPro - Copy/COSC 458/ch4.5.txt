@@ -1,0 +1,4 @@
+Requirements validation
+·       Concerned with demonstrating that the requirements define the system that the customer really wants.
+·        Requirements error costs are high so validation is very important
+o   Fixing a requirements error after delivery may cost up to 100 times the cost of fixing an implementation error.
