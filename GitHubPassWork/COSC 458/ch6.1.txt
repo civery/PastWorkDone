@@ -1,0 +1,25 @@
+Architectural Design
+·       Architectural design is concerned with understanding how a software system should be organized and designing the overall structure of that system.
+·       Architectural design is the critical link between design and requirements engineering, as it identifies the main structural components in a system and the relationships between them.
+·       The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components
+Architecture of a packing robot control system
+
+Advantages of explicit architecture
+·       Stakeholder communication
+o   Architecture may be used as a focus of discussion by system stakeholders.
+·       System analysis
+o   Means that analysis of whether the system can meet its nonfunctional requirements is possible.
+·       Large-scale reuse
+o   The architecture may be reusable across a range of systems
+o   Product-line architectures may be developed.
+Architectural design decisions
+
+Architecture and system characteristics
+·       Performance
+o   Localise critical operations and minimise communications. Use large rather than fine-grain components.
+·        Security
+o   Use a layered architecture with critical assets in the inner layers.  Safety  Localise safety-critical features in a small number of subsystems.
+·       Availability
+o    Include redundant components and mechanisms for fault tolerance.
+·       Maintainability
+o   Use fine-grain, replaceable components.

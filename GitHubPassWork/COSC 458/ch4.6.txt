@@ -1,0 +1,6 @@
+Requirements checking
+·        Validity. Does the system provide the functions which best support the customer’s needs?
+·        Consistency. Are there any requirements conflicts?
+·       Completeness. Are all functions required by the customer included?
+·        Realism. Can the requirements be implemented given available budget and technology
+·       Verifiability. Can the requirements be checked?

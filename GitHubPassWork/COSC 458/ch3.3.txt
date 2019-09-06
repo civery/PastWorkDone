@@ -1,0 +1,26 @@
+Agile project management
+·       The principal responsibility of software project managers is to manage the project so that the software is delivered on time and within the planned budget for the project.
+·        The standard approach to project management is plan driven. Managers draw up a plan for the project showing what should be delivered, when it should be delivered and who will work on the development of the project deliverables.
+·       Agile project management requires a different approach, which is adapted to incremental development and the practices used in agile methods.
+Scrum
+·       Scrum is an agile method that focuses on managing iterative development rather than specific agile practices.
+·        There are three phases in Scrum
+o   The initial phase is an outline planning phase where you establish the general objectives for the project and design the software architecture.
+o   This is followed by a series of sprint cycles, where each cycle develops an increment of the system.
+o   The project closure phase wraps up the project, completes required documentation such as system help frames and user manuals and assesses the lessons learned from the project.
+Scrum terminology
+
+Scrum Sprint Cycle
+
+·       Sprints are fixed length, normally 2–4 weeks.
+·        The starting point for planning is the product backlog, which is the list of work to be done on the project.
+·       The selection phase involves all of the project team who work with the customer to select the features and functionality from the product backlog to be developed during the sprint.
+The Sprint cycle
+·        Once these are agreed, the team organize themselves to develop the software.
+·       During this stage the team is isolated from the customer and the organization, with all communications channelled through the so-called ‘Scrum master’.
+·       The role of the Scrum master is to protect the development team from external distractions.
+·       At the end of the sprint, the work done is reviewed and presented to stakeholders. The next sprint cycle then begins.
+Scrum benefits
+·       The product is broken down into a set of manageable and understandable chunks.
+·       Unstable requirements do not hold up progress.
+·       The whole team have visibility of everything and consequently team communication is improved.

@@ -1,0 +1,12 @@
+Repository architecture
+·       Sub-systems must exchange data. This may be done in two ways:
+o   Shared data is held in a central database or repository and may be accessed by all sub-systems;
+o   Each sub-system maintains its own database and passes data explicitly to other sub-systems.
+·       When large amounts of data are to be shared, the repository model of sharing is most commonly used a this is an efficient data sharing mechanism.
+
+Client-server architecture
+·       Distributed system model which shows how data and processing is distributed across a range of components.
+o   Can be implemented on a single computer.
+·        Set of stand-alone servers which provide specific services such as printing, data management, etc.
+·        Set of clients which call on these services.
+·       Network which allows clients to access servers.

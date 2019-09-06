@@ -1,0 +1,41 @@
+What is a requirement?
+·       It may range from a high-level abstract statement of a service or of a system constraint to a detailed mathematical functional specification.
+·       This is inevitable as requirements may serve a dual function
+o    May be the basis for a bid for a contract - therefore must be open to interpretation;
+o    May be the basis for the contract itself - therefore must be defined in detail;
+o   Both these statements may be called requirements
+Types of requirements
+·       User requirements
+o   Statements in natural language plus diagrams of the services the system provides and its operational constraints. Written for customers.
+·        System requirements
+o   A structured document setting out detailed descriptions of the system’s functions, services and operational constraints. Defines what should be implemented so may be part of a contract between client and contractor
+Functional and non-functional requirements
+·       Functional requirements
+o    Statements of services the system should provide, how the system should react to particular inputs and how the system should behave in particular situations.
+o   May state what the system should not do.
+·       Non-functional requirements
+o   Constraints on the services or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.
+o   Often apply to the system as a whole rather than individual features or services.
+·       Domain requirements 
+o   Constraints on the system from the domain of operation
+Functional requirements
+·       Describe functionality or system services.
+·        Depend on the type of software, expected users and the type of system where the software is used.
+·       Functional user requirements may be high-level statements of what the system should do.
+·        Functional system requirements should describe the system services in detail.
+Requirements completeness and consistency
+·       In principle, requirements should be both complete and consistent.
+·        Complete
+o    They should include descriptions of all facilities required.
+·       Consistent
+o    There should be no conflicts or contradictions in the descriptions of the system facilities.
+·       In practice, because of system and environmental complexity, it is impossible to produce a complete and consistent requirements document.
+Types of Non-functional requirements
+
+Non-functional classifications
+·       Product requirements
+o    Requirements which specify that the delivered product must behave in a particular way e.g. execution speed, reliability, etc.
+·       Organisational requirements
+o   Requirements which are a consequence of organisational policies and procedures e.g. process standards used, implementation requirements, etc.
+·        External requirements
+o    Requirements which arise from factors which are external to the system and its development process e.g. interoperability requirements, legislative requirements, etc.

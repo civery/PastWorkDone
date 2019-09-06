@@ -1,0 +1,4 @@
+Structural models
+·       Structural models of software display the organization of a system in terms of the components that make up that system and their relationships.
+·       Structural models may be static models, which show the structure of the system design, or dynamic models, which show the organization of the system when it is executing.
+·       You create structural models of a system when you are discussing and designing the system architecture.

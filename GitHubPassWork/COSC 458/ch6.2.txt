@@ -1,0 +1,11 @@
+Architectural Views
+·       What views or perspectives are useful when designing and documenting a system’s architecture?
+·       What notations should be used for describing architectural models?
+·       Each architectural model only shows one view or perspective of the system.
+o    It might show how a system is decomposed into modules, how the run-time processes interact or the different ways in which system components are distributed across a network. For both design and documentation, you usually need to present multiple views of the software architecture.
+4+1 view model of software architecture
+·       A logical view, which shows the key abstractions in the system as objects or object classes.
+·       A process view, which shows how, at run-time, the system is composed of interacting processes.
+·        A development view, which shows how the software is decomposed for development.
+·       A physical view, which shows the system hardware and how software components are distributed across the processors in the system.
+·        Related using use cases or scenarios (+1)

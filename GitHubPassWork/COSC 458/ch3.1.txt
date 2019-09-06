@@ -1,0 +1,31 @@
+Agile development
+·       Program specification, design and implementation are inter-leaved
+·       The system is developed as a series of versions or increments with stakeholders involved in version specification and evaluation
+·       Frequent delivery of new versions for evaluation
+·       Extensive tool support (e.g. automated testing tools) used to support development.
+·       Minimal documentation – focus on working code
+Plan-driven and agile development
+
+·       Plan-driven development
+o   A plan-driven approach to software engineering is based around separate development stages with the outputs to be produced at each of these stages planned in advance.
+o   Not necessarily waterfall model – plan-driven, incremental development is possible
+o   Iteration occurs within activities.
+·       Agile development
+·       Specification, design, implementation and testing are interleaved and the outputs from the development process are decided through a process of negotiation during the software development process.
+The principles of agile methods
+
+The extreme programming release cycle
+
+Extreme programming practices
+
+
+XP and agile principles
+·       Incremental development is supported through small, frequent system releases.
+·       Customer involvement means full-time customer engagement with the team.
+·       People not process through pair programming, collective ownership and a process that avoids long working hours.
+·        Change supported through regular system releases.
+·       Maintaining simplicity through constant refactoring of code.
+Refactoring
+·       Conventional wisdom in software engineering is to design for change. It is worth spending time and effort anticipating changes as this reduces costs later in the life cycle.
+·        XP, however, maintains that this is not worthwhile as changes cannot be reliably anticipated.
+·        Rather, it proposes constant code improvement (refactoring) to make changes easier when they have to be implemented.

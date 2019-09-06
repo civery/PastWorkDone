@@ -1,0 +1,33 @@
+Software Process Models
+·       The waterfall model
+o   Plan-driven model. Separate and distinct phases of specification and development.
+·       Incremental development
+o   Specification, development and validation are interleaved. May be plan-driven or agile.
+·       Integration and configuration
+o   The system is assembled from existing configurable components. May be plan-driven or agile.
+The Waterfall Model
+
+Waterfall model problems
+·       Inflexible partitioning of the project into distinct stages makes it difficult to respond to changing customer requirements.
+o   Therefore, this model is only appropriate when the requirements are well-understood and changes will be fairly limited during the design process.
+o   Few business systems have stable requirements.
+·       The waterfall model is mostly used for large systems engineering projects where a system is developed at several sites.
+o   In those circumstances, the plan-driven nature of the waterfall model helps coordinate the work.
+Incremental development
+
+Incremental development benefits
+·       The cost of accommodating changing customer requirements is reduced.
+o   The amount of analysis and documentation that has to be redone is much less than is required with the waterfall model.
+·        It is easier to get customer feedback on the development work that has been done
+o   Customers can comment on demonstrations of the software and see how much has been implemented.
+·       More rapid delivery and deployment of useful software to the customer is possible.
+o   Customers are able to use and gain value from the software earlier than is possible with a waterfall process
+Incremental development problems
+·       The process is not visible.
+·       Managers need regular deliverables to measure progress. If systems are developed quickly, it is not cost-effective to produce documents that reflect every version of the system.
+·        System structure tends to degrade as new increments are added.
+o   Unless time and money is spent on refactoring to improve the software, regular change tends to corrupt its structure. Incorporating further software changes becomes increasingly difficult and costly.
+Integration and configuration
+·       Based on software reuse where systems are integrated from existing components or application systems (sometimes called COTS -Commercial-off-the-shelf) systems).
+·       Reused elements may be configured to adapt their behaviour and functionality to a user’s requirements
+·       Reuse is now the standard approach for building many types of business system

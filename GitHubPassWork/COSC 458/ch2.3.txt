@@ -1,0 +1,15 @@
+Coping with changing requirements
+·       System prototyping, where a version of the system or part of the system is developed quickly to check the customer’s requirements and the feasibility of design decisions. This approach supports change anticipation.
+·       Incremental delivery, where system increments are delivered to the customer for comment and experimentation. This supports both change avoidance and change tolerance.
+Software prototyping
+·       A prototype is an initial version of a system used to demonstrate concepts and try out design options.
+·       A prototype can be used in:
+o   The requirements engineering process to help with requirements elicitation and validation;
+o   In design processes to explore options and develop a UI design;
+o    In the testing process to run back-to-back tests.
+Benefits of prototyping
+·       Improved system usability
+·       A closer match users’ real needs
+·       Improved design quality
+·       Improved maintainability
+·       Reduced development effort
